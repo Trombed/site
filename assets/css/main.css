@@ -81,6 +81,15 @@ i {
 	flex-direction: row;
 	/* justify-content: space-evenly; */
 	align-items: center;
+	padding-bottom: 5px;
+}
+
+.spacer {
+	padding-left: 10px;
+}
+
+.contact-icons {
+	font-size: 3rem;
 }
 
 /* Basic */
